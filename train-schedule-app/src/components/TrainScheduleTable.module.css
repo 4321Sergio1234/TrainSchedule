@@ -1,0 +1,23 @@
+.scheduleTable {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+    font-family: "Segoe UI", sans-serif;
+  }
+  
+  .scheduleTable a {
+    display: inline-block;
+    margin-bottom: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: 600;
+    transition: background-color 0.2s ease;
+  }
+  
+  .scheduleTable a:hover {
+    background-color: #0056b3;
+  }
+  

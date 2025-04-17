@@ -1,0 +1,40 @@
+.scheduleItem {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem 1.5rem;
+    margin-bottom: 1rem;
+    background-color: #fdfdfd;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    transition: box-shadow 0.2s ease;
+  }
+  
+  .scheduleItem:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .scheduleItem h3 {
+    margin-top: 0;
+    color: #004080;
+  }
+  
+  .scheduleItem p {
+    margin: 0.3rem 0;
+    color: #333;
+  }
+  
+  .scheduleItem a {
+    display: inline-block;
+    margin-top: 0.8rem;
+    padding: 0.4rem 0.9rem;
+    background-color: #28a745;
+    color: white;
+    font-weight: 500;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .scheduleItem a:hover {
+    background-color: #1c7c33;
+  }
+  
